@@ -1,4 +1,4 @@
-# machine-learning
+# deep_learning
 
 # Link for projects are in colab
 
